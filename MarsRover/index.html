@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Mars Rover</title>
+</head>
+<body>
+    <div>
+        <h3>Mars Rover</h3>
+
+        <form action="api/state">
+            X:<input type="text" name="x" value="1"/><br/>
+            Y:<input type="text" name="y" value="2"/><br/>
+            R:<input type="text" name="r" value="0"/><br/>
+            Message:<input type="text" name="message" value="LMLMLMLMM"/><br/>
+            <input type="submit"/><br/>
+        </form>
+
+        <a href="api/state?x=1&y=2&r=0&message=LMLMLMLMM">test1</a>|
+        <a href="api/state?x=3&y=3&r=90&message=MMRMMRMRRM">test2</a>|
+
+        <p>
+            <span id="coor"></span>
+            <input type="button" class="rover-command" value="L"/>
+            <input type="button" class="rover-command" value="R"/>
+            <input type="button" class="rover-command" value="M"/>
+        </p>
+
+        <div id="rover" style="font-size: 20px; position: absolute; top: 100px; left: 300px">[X]</div>
+    </div>
+
+    <script src="Scripts/jquery-1.6.4.min.js"></script>
+    <script src="Scripts/rover.js"></script>
+</body>
+</html>
