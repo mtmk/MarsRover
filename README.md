@@ -1,5 +1,5 @@
 # MarsRover
-I was asked to complete this 'classic Mars Rover test in C#' as a technical challange after my interview. They also asked me to put it on GitHub, so I did and left it here. One of their requirements was to implement a web interface to it too. I kept it very simple and made sure it was fully functional. I hope it might help someone. Disclamer: Let me also add that I didn't get that job. So this is probably not the best code ever.
+I was asked to complete this 'classic Mars Rover test in C#' as a technical challange after an interview. They also asked me to put it on GitHub, so I did and left it here. One of their requirements was to implement a web interface to it too. I kept it very simple and made sure it was fully functional. I hope it might help someone. Disclamer: Let me also add that I didn't get that job. So, this is probably not the best code ever.
 
 # Licence
 Do what ever you want with it. I don't care.
