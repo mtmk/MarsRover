@@ -2,7 +2,7 @@
 I was asked to complete this 'classic Mars Rover test in C#' as a technical challange after an interview. They also asked me to put it on GitHub, so I did and left it here. One of their requirements was to implement a web interface to it too. I kept it very simple and made sure it was fully functional. I hope it might help someone. Disclamer: Let me also add that I didn't get that job. So, this is probably not the best code ever.
 
 # Licence
-Do what ever you want with it. I don't care.
+Do what ever you want with it. I don't care. If it's giving you any issues at all, it's your problem. 
 
 # Original Challange
 Searching the web I found a text describing the problem, which looks like it might be one of the originals.
